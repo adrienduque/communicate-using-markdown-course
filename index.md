@@ -17,3 +17,6 @@ if __name__ == "__main__":
   print_hello()
 
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
